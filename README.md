@@ -8,19 +8,6 @@
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/DarkSystem-PE/DarkSystem.svg)](http://isitmaintained.com/project/DarkSystem-PE/DarkSystem "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/DarkSystem-PE/DarkSystem.svg)](http://isitmaintained.com/project/DarkSystem-PE/DarkSystem "Percentage of issues still open")
 
-| Direct Phar Download | Travis CI | Discord Chat Server |
-| :---: | :---: | :---: |
-[![Download](https://img.shields.io/badge/download-latest-blue.svg)](http://jenkins.haniokasai.com/job/DarkSystem-PMMP_12/lastSuccessfulBuild/artifact/artifacts/DarkSystem_PMMP1-2.phar) | [![Build Status](https://travis-ci.org/DarkSystem-PE/DarkSystem.svg?branch=master)](https://travis-ci.org/DarkSystem-PE/DarkSystem) | [![Discord](https://camo.githubusercontent.com/455152269a0ed38255ed15e375084d4dd08e0c98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d6f6e253230646973636f72642d3732383944412e737667)](https://discord.gg/4TewN6v) | 
-
-### DarkSystem Special Android APP
-You can download it [here](http://bit.do/darksystem_apk).<br>
-**NOTE:** Language of app is Turkish, does not support English. Will be added soon.<br>
-
-### DarkSystem Test Server
-You can test DarkSystem before download.<br>
-IP: **dts.kro.kr**<br>
-PORT: **19130**<br>
-STATUS: **Unknown**<br>
 
 # Features:
 - [x] DarkSystem is **# 1** about speed & no-lag.
